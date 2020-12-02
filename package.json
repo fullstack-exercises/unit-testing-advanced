@@ -1,0 +1,23 @@
+{
+    "name": "unit-testing-advanced",
+    "version": "1.0.0",
+    "description": "Level 29 | Unit testing advanced",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wincacademy-exercises/unit-testing-advanced.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/wincacademy-exercises/unit-testing-advanced/issues"
+    },
+    "homepage": "https://github.com/wincacademy-exercises/unit-testing-advanced#readme",
+    "devDependencies": {
+        "jest": "^26.6.3"
+    }
+}
